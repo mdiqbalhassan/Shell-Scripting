@@ -10,5 +10,6 @@ These work on any linux distribution as long as you have bash.
 
 ## script Order 
 * hello.sh
+* variables-comments.sh
 * read_user_input.sh
-* variables-comments.sh 
+ 

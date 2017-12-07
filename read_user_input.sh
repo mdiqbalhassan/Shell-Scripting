@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # To get a input from the keyboard 'read' is the key word
-: '
+
 #example 1: read one variable 
 echo Enter Your Name: 
 read name #no $ sign when taking input
@@ -34,7 +34,7 @@ echo "(With out variable) Enter your age"
 read #no variable here
 #in this case you will the ourput from a system variable $REPLY
 echo "dude! You are $REPLY years old."
-'
+
 #example 6: Enter an array as input
 # use -a flag for array
 # to get array(s) elemant format -> ${<array Name[<element index>]>}
