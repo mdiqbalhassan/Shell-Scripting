@@ -2,6 +2,13 @@
 
 # This is a comment
 
+: '
+This is a multiple line comment
+I can also write in 2nd line
+and 3rd line
+and 4th line also 
+'
+
 echo "Hello World" # This is also a Comment
 
 #Shell has 2 types of Variables
