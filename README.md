@@ -17,5 +17,6 @@ These work's on any linux distribution as long as you have bash.
 
 ## Operator List
 * integer-comparison.txt
+* string-comparison.txt
 
  
