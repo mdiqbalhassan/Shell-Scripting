@@ -13,4 +13,9 @@ These work's on any linux distribution as long as you have bash.
 * variables-comments.sh
 * read_user_input.sh
 * pass_arguments.sh
+* if-statement.sh
+
+## Operator List
+* integer-comparison.txt
+
  
